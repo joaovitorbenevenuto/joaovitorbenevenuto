@@ -1,4 +1,4 @@
- 👋   Olá! Me chamo João Vitor e sou um Desenvolveldor Backend em formação, estudando programação e muito mais na [@cubosacademy](https://cubos.academy/) desde 2023
+ 👋   Olá! Me chamo João Vitor e sou um Desenvolveldor Backend , estudando programação e muito mais na [@cubosacademy](https://cubos.academy/) desde 2023
     e [@análiseemdesenvolvimento](https://www.uva.br/cursos/graduacao-em-analise-e-desenvolvimento-de-sistemas-a-distancia/) na universidade veiga de almeida desde 2022.
      
 👀 Atualmente estou estudando: 
